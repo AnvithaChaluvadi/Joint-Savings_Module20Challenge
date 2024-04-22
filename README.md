@@ -23,7 +23,7 @@ To automate the creation of joint savings accounts, you’ll create a Solidity s
 * Account 2: 0xa0A630235747d11D58a1CED2d2F8df2114f158e0
 
 <p align="center">
-<img src = Images/joint_accounts.png width =90% height 30%=/>
+<img src = Images/Joint_Accounts.png width =90% height 30%=/>
 </p>
 
 ### Execution Results:
@@ -43,8 +43,8 @@ To automate the creation of joint savings accounts, you’ll create a Solidity s
 
 #### Deposit 10 ETH - Transaction 2: Send 10 ether as wei
 
-* To deposit 1 ETH, I needed to convert Wei into ETH and then assign that number to the 'value' field
-    * 10000000000000000000 Wei = 10 Ether
+* To deposit 1 ETH, I needed to convert wei into ETH and then assign that number to the 'value' field
+    * 10000000000000000000 wei = 10 Ether
 
     <p align="center">
     <img src = Execution_Results/Deposit_10.png width =90% height 30%=/>
@@ -55,7 +55,7 @@ To automate the creation of joint savings accounts, you’ll create a Solidity s
 
 #### Deposit 5 ETH - Transaction 3: Send 5 ether
 
-* I converted the value from Wei to Ether and successfully set it to 5, then deposited it.
+* I converted the value from wei to Ether and successfully set it to 5, then deposited it.
 
     <p align="center">
     <img src = Execution_Results/Deposit_5-pt1.png width =20% height 30%=/>
