@@ -80,8 +80,6 @@ To automate the creation of joint savings accounts, you’ll create a Solidity s
 * Balance is 11 ETH
     * 16 ETH - 5 ETH = 11 ETH
 
-* 
-
 #### Withdraw 10 ETH - Withdrawing 10 ether into accountTwo
 
 * To withdraw 10 ETH into accountOne, I had to convert ETH into wei
