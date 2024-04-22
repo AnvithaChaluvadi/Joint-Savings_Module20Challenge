@@ -23,7 +23,7 @@ To automate the creation of joint savings accounts, you’ll create a Solidity s
 * Account 2: 0xa0A630235747d11D58a1CED2d2F8df2114f158e0
 
 <p align="center">
-<img src = Images/Joint_Accounts.png width =60% height 30%=/>
+<img src = Images/Joint-Accounts.png width =60% height 30%=/>
 </p>
 
 ### Execution Results:
