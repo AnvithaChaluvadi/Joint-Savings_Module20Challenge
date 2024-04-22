@@ -23,7 +23,7 @@ To automate the creation of joint savings accounts, you’ll create a Solidity s
 * Account 2: 0xa0A630235747d11D58a1CED2d2F8df2114f158e0
 
 <p align="center">
-<img src = Images/joint_accounts.png width =60% height 30%=/>
+<img src = Images/joint_accounts.png width =90% height 30%=/>
 </p>
 
 ### Execution Results:
@@ -36,7 +36,7 @@ To automate the creation of joint savings accounts, you’ll create a Solidity s
     * 1000000000000000000 wei = 1 Ether
 
     <p align="center">
-    <img src = Execution_Results/Deposit_1.png width =60% height 30%=/>
+    <img src = Execution_Results/Deposit_1.png width =90% height 30%=/>
     </p>
 
 * Balance is 1 ETH
@@ -47,7 +47,7 @@ To automate the creation of joint savings accounts, you’ll create a Solidity s
     * 10000000000000000000 Wei = 10 Ether
 
     <p align="center">
-    <img src = Execution_Results/Deposit_10.png width =60% height 30%=/>
+    <img src = Execution_Results/Deposit_10.png width =90% height 30%=/>
     </p>
 
 * Balance is 11 ETH
@@ -62,7 +62,7 @@ To automate the creation of joint savings accounts, you’ll create a Solidity s
     </p>
 
     <p align="center">
-    <img src = Execution_Results/Deposit_5-pt2.png width =60% height 30%=/>
+    <img src = Execution_Results/Deposit_5-pt2.png width =90% height 30%=/>
     </p>
 
 * Balance is 16 ETH
@@ -74,7 +74,7 @@ To automate the creation of joint savings accounts, you’ll create a Solidity s
     * 5 ETH = 5000000000000000000 wei
 
 <p align="center">
-<img src = Execution_Results/Withdraw_5.png width =60% height 30%=/>
+<img src = Execution_Results/Withdraw_5.png width =90% height 30%=/>
 </p>
 
 * Balance is 11 ETH
@@ -88,7 +88,7 @@ To automate the creation of joint savings accounts, you’ll create a Solidity s
     * 10 ETH = 10000000000000000000 wei
 
 <p align="center">
-<img src = Execution_Results/Withdraw_10.png width =60% height 30%=/>
+<img src = Execution_Results/Withdraw_10.png width =90% height 30%=/>
 </p> 
 
 * Balance is 1 ETH
